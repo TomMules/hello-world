@@ -6,3 +6,5 @@ Hello All - Welcome to my hello-world repository
 My Name is Tom 
 
 I started CS50 with HarvardX in March 2021
+
+Completed: https://guides.github.com/activities/hello-world/
